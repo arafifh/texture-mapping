@@ -60,10 +60,6 @@ Dalam potongan kode tersebut, fungsi drawSquare dipanggil enam kali, sesuai deng
 
 Berikut adalah _Screenshot output_ dari perubahan code tersebut:
 
-![Img1](https://cdn.discordapp.com/attachments/1150687865420906517/1168784082826702939/Screenshot_1158.png?ex=65530600&is=65409100&hm=eaf1254d41c333735ac401c632afb16a3a2bf82ed732a2aa2655fde49bb8aade&)
-
-![Img2](https://cdn.discordapp.com/attachments/1150687865420906517/1168784084118548480/Screenshot_1160.png?ex=65530600&is=65409100&hm=bbec28ec7c51f50c3f70e9ddf8b3b8c21d911157df105314c96727705f9523ca&)
-
-![Img3](https://cdn.discordapp.com/attachments/1150687865420906517/1168784084546363393/Screenshot_1161.png?ex=65530600&is=65409100&hm=6bd6a66953d342fa6047891bef47f76af5d6aa88d6b8bc7995803dc32b6f1d9f&)
-
-![Img4](https://cdn.discordapp.com/attachments/1150687865420906517/1168784367074685009/Screenshot_1162.png?ex=65530644&is=65409144&hm=a34a5177e92a18f840e0625c6aaa600cc4db36c90a6be79793538680b50992a4&)
+<img width="1532" alt="Screenshot 2023-10-31 at 14 11 42" src="https://github.com/arafifh/texture-mapping/assets/89500557/c8953e35-c16d-4a4e-892e-f9c3ceca4eae">
+<img width="1532" alt="Screenshot 2023-10-31 at 14 11 50" src="https://github.com/arafifh/texture-mapping/assets/89500557/2a744a07-2ab4-418f-ba21-efc70527e50b">
+<img width="1532" alt="Screenshot 2023-10-31 at 14 11 58" src="https://github.com/arafifh/texture-mapping/assets/89500557/e680d117-d9cf-4466-b5da-6a199c44425e">
